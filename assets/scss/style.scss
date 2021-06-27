@@ -1,0 +1,31 @@
+// Color Variables
+{{ with site.Params.variables }}
+$primary-color: {{.primary_color | default "#C83B4C"}};
+$text-color: {{.text_color | default "#46265C"}};
+$text-color-dark: {{.text_color_dark | default "#46265C"}};
+$body-color: {{.body_color | default "#fff"}};
+$border-color: {{.border_color | default "#ECECEC"}};
+$black: {{.black | default "rgba(0,0,0,0.7)"}};
+$white: {{.white | default "#fff"}};
+$light: {{.light | default "#fff"}};
+$milk: {{.milk | default "#FBF8CA"}};
+
+// Font Variables
+$primary-font: '{{ replaceRE ":[ital,]*wght@[0-9,;]+" "" .primary_font | default "Merriweather"}}', {{.primary_font_type | default "serif"}};
+$secondary-font: '{{ replaceRE ":[ital,]*wght@[0-9,;]+" "" .secondary_font | default "Poppins"}}', {{.secondary_font_type | default "sans-serif"}};
+$icon-font: '{{.icon_font | default "Font Awesome 5 Free"}}';
+{{ end }}
+
+@import 'mixins';
+
+@import 'typography';
+
+@import 'buttons';
+
+@import 'common';
+
+@import 'templates/navigation.scss';
+
+@import 'templates/main.scss';
+
+@import 'custom';

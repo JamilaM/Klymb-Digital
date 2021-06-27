@@ -1,0 +1,64 @@
+{{ define "main" }}
+
+{{ partial "page-header.html" . }}
+<section class="section bg-white">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-8 mb-4 mb-lg-0">
+        <form class="booking-form" action="{{ site.Params.contact_form_action2 | safeURL }}" method="POST">
+          <input type="text" class="form-control mb-5" id="name" name="name" placeholder="{{ i18n `yourname` }}">
+          <input type="email" class="form-control mb-5" id="mail" name="mail" placeholder="{{ i18n `youremail` }}">
+          <input type="text" class="form-control mb-5" id="company" name="company" placeholder="{{ i18n `company` }}">
+          <div class="form-group">
+          <select class="form-control mb-5" id="domain" name="domain">
+            <option disable>{{ i18n `domain` }}</option>
+            <option>Yes</option>
+            <option>No</option>
+          </select>
+          </div>
+          <p>What functionalities will you like the website to have?</p>
+          <div class="custom-control custom-checkbox mb-3">
+            <input class="custom-control-input" type="checkbox" value="functionalities1" id="functionalities1" name="function1">
+            <label class="custom-control-label" for="functionalities1">
+              Blog
+            </label>
+          </div>
+          <div class="custom-control custom-checkbox mb-3">
+            <input class="custom-control-input" type="checkbox" value="functionalities" id="functionalities2" name="function2">
+            <label class="custom-control-label" for="functionalities2">
+              Newsletter optin
+            </label>
+          </div>
+          <div class="custom-control custom-checkbox mb-3">
+            <input class="custom-control-input" type="checkbox" value="functionalities" id="functionalities3" name="function3">
+            <label class="custom-control-label" for="functionalities3">
+              Contact form
+            </label>
+          </div>
+          <div class="custom-control custom-checkbox mb-3">
+            <input class="custom-control-input" type="checkbox" value="functionalities" id="functionalities4" name="function4">
+            <label class="custom-control-label" for="functionalities4">
+              Online shop
+            </label>
+          </div>
+          <div class="custom-control custom-checkbox mb-5">
+            <input class="custom-control-input" type="checkbox" value="functionalities" id="functionalities5" name="function5">
+            <label class="custom-control-label" for="functionalities5">
+              Payment gateway
+            </label>
+          </div>
+          <input type="text" class="form-control mb-5" id="others" name="others" placeholder="{{ i18n `others` }}">
+          <textarea name="message" id="message" class="form-control mb-5" placeholder="{{ i18n `yourmessage` }}"></textarea>
+          <button type="submit" value="send" class="btn btn-primary">{{ i18n `sendnow` }}</button>
+        </form>
+
+        <div class="content my-5">
+          {{ .Content }}
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</section>
+
+{{ end }}

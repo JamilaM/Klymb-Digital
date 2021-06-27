@@ -1,0 +1,11 @@
+name = "Breath"
+license = "MIT"
+description = "Breath is a custom theme created with Hugo for Klymb Digital; a web design and development agency. It is a responsive and user friendly theme responsive and ready to use theme.
+homepage = "https://klymbdigital.com/"
+tags = ['landing-page', 'fast', 'light', 'white', 'modern', 'hugo-theme', 'bootstrap', 'blog', 'responsive', 'clean', 'simple', 'creative', 'contact-form', 'custom-themes', 'mobile', 'minimalistic', 'pages', 'google analytics', 'customizable', 'flexbox', 'presentation', 'product', 'theme', 'typography']
+features = ['bootstrap','responsive']
+min_version = "0.64.0"
+
+[author]
+name = "Klymb Digital"
+homepage = "https://klymbdigital.com/"

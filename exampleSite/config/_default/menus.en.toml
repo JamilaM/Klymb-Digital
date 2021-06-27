@@ -1,0 +1,55 @@
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Blog"
+url = "blog"
+weight = 2
+
+[[main]]
+name = "About"
+url = "about"
+weight = 3
+
+[[main]]
+name = "Pricing"
+url = "pricing"
+weight = 4
+
+[[main]]
+name = "Contact"
+url = "#contact"
+weight = 5
+
+
+# footer menu left
+[[footer_left]]
+name = "About us"
+url = "about"
+
+[[footer_left]]
+name = "Our Work"
+url = "#work"
+
+[[footer_left]]
+name = "Booking"
+url = "booking"
+
+
+# footer menu middle
+
+[[footer_middle]]
+name = "Pricing"
+url = "pricing"
+
+[[footer_middle]]
+name = "Privacy Policy"
+url = "privacy-policy"
+
+[[footer_middle]]
+name = "Terms & Conditions"
+url = "terms-conditions"
+

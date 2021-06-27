@@ -1,0 +1,1 @@
+A simple user friendly Hugo theme custom-made for a web design and development agency.

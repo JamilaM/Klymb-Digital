@@ -1,0 +1,29 @@
+############################# English ############################
+[en]
+languageName = "En"
+title = "Klymb Digital"
+contentDir = "content/english" # content/english
+weight = 1
+########### footer content ##########
+footer_menu_left = "About"
+footer_menu_middle = "Company"
+footer_menu_right = "Support"
+footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+# copyright
+copyright = "Copyright © [Klymb Digital](https://klymbdigital.com/) 2020. All rights reserved."
+
+
+
+############################# Deutsch ############################
+[de]
+languageName = "De"
+title = "Klymb Digital"
+contentDir = "content/deutsch" # content/german
+weight = 2
+########### footer content ##########
+footer_menu_left = "Firma"
+footer_menu_middle = "Produkte"
+footer_menu_right = "Support"
+footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+# copyright
+copyright = "Design von [Klymb Digital](https://klymbdigital.com/)

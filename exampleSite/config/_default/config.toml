@@ -1,0 +1,16 @@
+######################## default configuration ####################
+baseURL = "https://klymbdigital.com/"
+title = "A Better Website for your Business"
+theme = "breath"
+# post pagination
+paginate = "3"
+# post excerpt
+summaryLength = "15"
+# disqus short name
+disqusShortname = "klymb-digital" # get your shortname form here : https://disqus.com
+# google analytics
+googleAnalytics = "G-MHKHYFFQQF" # example : UA-123-45
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+disableLanguages = "de"

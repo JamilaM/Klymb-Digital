@@ -1,0 +1,25 @@
+.nav-item {
+  margin: 0;
+
+  .nav-link {
+    text-transform: capitalize;
+    font-weight: 500;
+    font-family: $primary-font;
+  }
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: $text-color-dark;
+
+  &:hover {
+    color: $primary-color;
+  }
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding: 20px;
+
+  @include desktop {
+    padding: 10px;
+  }
+}

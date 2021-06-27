@@ -1,0 +1,54 @@
+#################### default parameters ################################
+logo = "images/Full_logo.svg"
+logo_width = "200px"
+# OpenGraph / Twitter Card metadata
+description = "High performance websites built on the JAMstack"
+author = "Klymb Digital"
+image = "images/Logo.svg" # this image will be used as fallback if a page has no image of its own
+# contact form action
+contact_form_action = "https://formspree.io/f/mpzklqdz" # contact form works with https://formspree.io
+# contact form action2
+contact_form_action2 = "https://formspree.io/f/mknkzorg" # contact form works with https://formspree.io
+
+# Preloader
+[preloader]
+enable = true
+preloader = "images/Logo.svg" # use jpg, png, svg or gif format.
+
+# Footer Dots
+[footer_dots]
+image = "images/dots.svg"
+
+# Navigation buttons
+[navigation_button]
+enable = true
+label = "Request Booking"
+link = "booking"
+
+# cookies
+[cookies]
+enable = false
+expire_days = 2
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"
+  
+############################# social site ########################
+[[social]]
+title = "facebook"
+icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[social]]
+title = "twitter"
+icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[social]]
+title = "skype"
+icon = "fab fa-skype" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[social]]
+title = "linkedin"
+icon = "fab fa-linkedin" # themify icon : https://themify.me/themify-icons
+link = "#"
