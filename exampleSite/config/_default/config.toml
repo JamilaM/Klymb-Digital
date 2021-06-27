@@ -1,16 +1,10 @@
-######################## default configuration ####################
-baseURL = "https://klymbdigital.com/"
-title = "A Better Website for your Business"
-theme = "breath"
-# post pagination
+baseURL = "https://klymb-digital.netlify.com/"
+disqusShortname = "klymb-digital"
+googleAnalytics = "G-MHKHYFFQQF"
 paginate = "3"
-# post excerpt
 summaryLength = "15"
-# disqus short name
-disqusShortname = "klymb-digital" # get your shortname form here : https://disqus.com
-# google analytics
-googleAnalytics = "G-MHKHYFFQQF" # example : UA-123-45
-# unsafe html
+theme = "breath"
+title = "A Better Website for your Business"
 [markup.goldmark.renderer]
-unsafe = true
 disableLanguages = "de"
+unsafe = true
