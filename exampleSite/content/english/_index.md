@@ -1,9 +1,9 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "We Design and Develop <br> <span>Better</span> Business <br> Websites"
+  title : "We Design and Develop<br> <span>Better</span> Business <br>Websites"
   image : "images/header_image.svg"
-  content : "No stress, no maintenance, high performance <br> websites for your business built on the Jamstack <br> architecture"
+  content : "<p>No stress, no maintenance, high performance websites for your business built on the Jamstack architecture</p>"
   button:
     enable : true
     label : "Get Started"

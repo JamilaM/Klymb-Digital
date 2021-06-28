@@ -333,9 +333,17 @@ textarea.form-control {
     border: 1px solid #C83B4C;
     transition: .5s ease; }
 
-.card-img {
-  max-width: 80% !important;
-  margin: auto; }
+.card-imgg {
+  width: 60% !important; }
+
+footer {
+  position: relative; }
+
+.dots {
+  position: absolute;
+  right: 8.3%;
+  bottom: 35%;
+  z-index: 0; }
 
 .footer-list a {
   display: block;
@@ -359,10 +367,15 @@ textarea.form-control {
     color: #fff;
     background-color: #C83B4C; }
 
-input, textarea {
+input, textarea, select {
   border: none !important;
   border-bottom: 1px solid #46265C !important;
-  border-radius: 0 !important; }
+  border-radius: 0 !important;
+  padding-left: 0 !important; }
+
+input[type="checkbox"] {
+  border-radius: 50% !important;
+  border: 1px solid #46265C !important; }
 
 a.post-title {
   color: #46265C;
