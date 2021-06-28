@@ -13,11 +13,11 @@ about_section:
   
   <p>What the Jamstack offers is a better experience for you, your team and your customers.</p>
   
-  <p>You’ll have the peace of mind to focus on your business while your website does what it does without the need for it to always be maintained, without the need for you to break the bank, without the need for you worry about how it will handle your growth.</p>
+  <p>You’ll have the peace of mind to focus on your business while your website does what it does best without the need for it to always be maintained, without the need for you to break the bank, without the need for you worry about how it will handle your growth.</p>
   
   <p>Blazing fast speed means your customers are happy and happy customers is always good business. It also means Google will be happy with you and your SEO efforts.</p>
   
-  <p>At Klymb Digital, our word is our bind, when we tell you we’ll deliver in a month, you can be rest assured we’ll deliver. We have good design processes and developmemt workflow that keesp you in the loop without overwhelming you with the details. You’ll enjoy working with us, it’s a promise.</p>"
+  <p>At Klymb Digital, our word is our bind, when we tell you we’ll deliver in a month, you can be rest assured we’ll deliver. We have good design processes and developmemt workflow that keeps you in the loop without overwhelming you with the details. You’ll enjoy working with us, it’s a promise.</p>"
 
 
 ##################### Call to action #####################
