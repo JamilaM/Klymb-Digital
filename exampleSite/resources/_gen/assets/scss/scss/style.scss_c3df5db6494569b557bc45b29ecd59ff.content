@@ -235,8 +235,15 @@ a:hover {
 .rounded-sm {
   border-radius: 6px !important; }
 
-.shadow, .small-card:hover, .feature-card:hover, .btn:hover, .btn:active, .btn:focus {
+.shadow, .small-card:hover, .feature-card:hover, .shadow-nw:hover, .btn:hover, .btn:active, .btn:focus {
   box-shadow: 2px 2px 5px #360827 !important; }
+
+.shadow-nw {
+  -webkit-box-shadow: 10px 10px 20px #d9d9d9;
+  box-shadow: 10px 10px 20px #d9d9d9; }
+  .shadow-nw:hover {
+    border: 1px solid #C83B4C;
+    transition: .5s ease; }
 
 .form-control:focus {
   outline: 0;
@@ -309,7 +316,8 @@ textarea.form-control {
   padding: 20px;
   transition: .2s ease;
   background-color: #fff;
-  box-shadow: 2px 2px 5px #360827;
+  -webkit-box-shadow: 5px 5px 10px #d9d9d9;
+  box-shadow: 5px 5px 10px #d9d9d9;
   height: 232px; }
   .feature-card:hover {
     border: 1px solid #C83B4C;
@@ -324,7 +332,8 @@ textarea.form-control {
   padding: 20px;
   transition: .2s ease;
   background-color: #fff;
-  box-shadow: 2px 2px 5px #360827;
+  -webkit-box-shadow: 5px 5px 10px #d9d9d9;
+  box-shadow: 5px 5px 10px #d9d9d9;
   height: 150px;
   display: flex;
   justify-content: center;
@@ -345,6 +354,15 @@ footer {
   bottom: 35%;
   z-index: 0; }
 
+.form-div {
+  -webkit-box-shadow: 5px 5px 10px #b3b3b3, -5px -5px 10px #ffffff;
+  box-shadow: 5px 5px 10px #b3b3b3, -5px -5px 10px #ffffff; }
+  @media (max-width: 575px) {
+    .form-div {
+      -webkit-box-shadow: none;
+      box-shadow: none;
+      width: 80%;
+      margin: auto; } }
 .footer-list a {
   display: block;
   padding: 5px 0;

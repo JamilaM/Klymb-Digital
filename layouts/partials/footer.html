@@ -1,6 +1,6 @@
 <footer class="bg-light section pb-0 mt-lg-5">
   <div class="container">
-   <div class="row">
+   <div class="row text-center text-md-left">
     <div class="col-lg-4 col-md-6 mb-5">
       <div class="row justify-content-start">
         <div class="col-md-10 col-sm-6">
@@ -20,7 +20,7 @@
         </ul>
         {{ end }}
       </div>
-      <div class="col-md-6 col-sm-6">
+      <div class="col-md-6 col-sm-6 mt-4 mt-md-0">
         {{ if site.Menus.footer_middle }}
         <div class="h3 mb-4">{{ site.Params.footer_menu_middle }}</div>
         <ul class="list-unstyled footer-list">
@@ -43,7 +43,7 @@
   </div>
   {{ with site.Params.footer_dots}}<div class="dots d-none d-lg-block"><img class="img-fluid" src="{{ .image | relURL }}" alt="dots"></div>
   {{end}}
-      <div class="col-lg-7 shadow mb-4 mb-lg-0 p-md-5 py-5 order-sm-1 bg-white">
+      <div class="col-lg-7 form-div mb-4 mb-lg-0 p-md-5 py-5 order-md-12 bg-white">
         <div class="row">
           <div class="col-lg-3 col-sm-10">
             <h2>Contact Us</h2>

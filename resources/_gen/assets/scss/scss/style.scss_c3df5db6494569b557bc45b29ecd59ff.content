@@ -341,7 +341,7 @@ footer {
 
 .dots {
   position: absolute;
-  right: 8.3%;
+  left: 8.3%;
   bottom: 35%;
   z-index: 0; }
 

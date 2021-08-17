@@ -132,6 +132,18 @@ a:hover {
   box-shadow: 2px 2px 5px #360827 !important;
 }
 
+.shadow-nw{
+  -webkit-box-shadow: 10px 10px 20px #d9d9d9;
+  box-shadow: 10px 10px 20px #d9d9d9;
+
+  &:hover {
+    @extend .shadow;
+    border: 1px solid $primary-color;
+    transition: .5s ease;
+  }
+
+}
+
 // form control
 
 .form-control {
