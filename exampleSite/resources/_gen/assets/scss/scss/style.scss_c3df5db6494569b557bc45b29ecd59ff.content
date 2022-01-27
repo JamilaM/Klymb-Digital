@@ -96,11 +96,11 @@ h6,
     padding: 12px 30px;
     font-size: 15px; }
 
-.btn-primary {
+.btn-primary, .payment {
   background-color: #C83B4C;
   color: #fff;
   border-color: #C83B4C; }
-  .btn-primary:active, .btn-primary:hover, .btn-primary.focus, .btn-primary.active {
+  .btn-primary:active, .btn-primary:hover, .btn-primary.focus, .btn-primary.active, .payment:active, .payment:hover, .payment.focus, .payment.active {
     background-color: #C83B4C !important;
     border-color: #C83B4C !important; }
 

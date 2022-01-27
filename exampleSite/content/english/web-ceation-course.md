@@ -64,3 +64,5 @@ Payment window: **27th Jan to 3th Feb, 2022**
 The course begins: **Friday, 4th of February 2022**
 
 ### **Pay Now**
+
+[Make Payment](https://paystack.com/pay/mobile-website-creation){: .payment}
