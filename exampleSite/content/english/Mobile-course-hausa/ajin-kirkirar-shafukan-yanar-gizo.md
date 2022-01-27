@@ -1,6 +1,5 @@
 +++
 description = ""
-draft = true
 subtitle = "Koyi yadda ake kirkirar shafukan yanar gizo da wayar tarho"
 title = "Ajin Kirkirar Shafukan Yanar Gizo"
 
@@ -51,10 +50,18 @@ Idan kana daga cikin wadannan rukunonin mutane, za ka so shiga wannan aji, ko da
 
 **Ajin baya bukatar zurfaffan ilimin kwamfuta. Darussan na da saukin bi.**
 
-Wa'adin aji: Kwanaki 3
+### **Bayanai Akan Ajin**
 
-Kafar koyarwa: - - -
+Wa'adi: Kwanaki **3**
 
-Farashi: - - -
+Kafar Koyarwa: **Yanar Gizo**
+
+Farashi: **N5500**
+
+Ragaggen Farashi: **N4500** (Zuwa 29th ga January, 2022)
+
+Wa'adin Biya: **27 ga Jan zuwa 3 ga Feb, 2022 (Mako guda)**
+
+Ajin zai fara: **Ranar Juma'a, 4 ga February 2022**
 
 <a href="[https://paystack.com/pay/mobile-website-creation](https://paystack.com/pay/mobile-website-creation "https://paystack.com/pay/mobile-website-creation")"><button type="button" name="button" class="btn btn-primary">Yi Rajista</button></a>
