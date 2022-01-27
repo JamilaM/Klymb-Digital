@@ -56,7 +56,7 @@ Mode of delivery: **Virtual**
 
 Regular Price: **N5500**
 
-Early bird price: **N4500 (**Midnight 29th of January 2022)
+Early bird price: **N4500** (Ends midnight 29th of January, 2022)
 
 Payment window: **27th Jan to 3th Feb, 2022**
 
