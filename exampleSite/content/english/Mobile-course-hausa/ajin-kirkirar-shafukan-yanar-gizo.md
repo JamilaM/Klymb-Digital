@@ -25,27 +25,27 @@ Idan kana daga cikin wadannan rukunonin mutane, za ka so shiga wannan aji, ko da
 
 **Abubuwan da za a koya a ajin:**
 
-Yadda ake saye da kuma hada sunan shafin yanar gizo da kuma ma'ajiyarshi (domain and hosting)
+✅Yadda ake saye da kuma hada sunan shafin yanar gizo da kuma ma'ajiyarshi (domain and hosting)
 
-Yadda ake samun sunan shafi kyauta idan aka sayi ma'ajiyar shi a yanar gizo
+✅Yadda ake samun sunan shafi kyauta idan aka sayi ma'ajiyar shi a yanar gizo
 
-Yadda ake shiga Cpanel a kuma girke WordPress ta hanyar amfani da Softaculous ta wayar hannu
+✅Yadda ake shiga Cpanel a kuma girke WordPress ta hanyar amfani da Softaculous ta wayar hannu
 
-Yadda ake shiga fagen ma'ajiyar shafin yanar gizo ta wayar hannu (hosting dashboard)
+✅Yadda ake shiga fagen ma'ajiyar shafin yanar gizo ta wayar hannu (hosting dashboard)
 
-Kula da shafin yanar gizo: Koyi yadda ake shiga shafi ta bayan fage (WordPress Dashboard)
+✅Kula da shafin yanar gizo: Koyi yadda ake shiga shafi ta bayan fage (WordPress Dashboard)
 
-Koyi yadda ake fara wallafa rubuce-rubucen daga bayan fagen shafin ba tare da bata lokaci ba
+✅Koyi yadda ake fara wallafa rubuce-rubucen daga bayan fagen shafin ba tare da bata lokaci ba
 
-Yadda ake zaben kyawawan themes da za su kayata shafin da yadda ake sauya fasalin su
+✅Yadda ake zaben kyawawan themes da za su kayata shafin da yadda ake sauya fasalin su
 
-Banbanci tsakanin mujallar yanar gizo, shafin yanar gizo na kasuwanci da shafin yanar gizo na neman aiki
+✅Banbanci tsakanin mujallar yanar gizo, shafin yanar gizo na kasuwanci da shafin yanar gizo na neman aiki
 
-Plugins mafiya amfani da ake girkawa a shafin yanar gizo domin fadada amfaninsa da karfafa tsaro
+✅Plugins mafiya amfani da ake girkawa a shafin yanar gizo domin fadada amfaninsa da karfafa tsaro
 
-Yadda ake girkewa da kuma amfani da manhajar Google Analytics a wayar hannu domin ganin adadin mutanen da ke shiga shafin yanar gizo
+✅Yadda ake girkewa da kuma amfani da manhajar Google Analytics a wayar hannu domin ganin adadin mutanen da ke shiga shafin yanar gizo
 
-Inda ake samun zuka-zukan hotunan da ake amfani da su wajen kirkirar shafin yanar gizo
+✅Inda ake samun zuka-zukan hotunan da ake amfani da su wajen kirkirar shafin yanar gizo
 
 **Wannan ajin na kama-hannunka ne. Za ka iya bin darussan ka kirkiri shafin yanar gizo yayin da ajin ke wakana.**
 
