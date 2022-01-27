@@ -1,8 +1,8 @@
 +++
 description = ""
+image = "images/add-banner.png"
 subtitle = "Koyi yadda ake kirkirar shafukan yanar gizo da wayar tarho"
 title = "Ajin Kirkirar Shafukan Yanar Gizo"
-image = "images/add-banner.png"
 
 +++
 Shin kana sha'awar **_fara sana'ar kirkirar shafukan yanar gizo_** ga kananan 'yan kasuwa?
@@ -21,7 +21,7 @@ Idan kana daga cikin wadannan rukunonin mutane, za ka so shiga wannan aji, ko da
 
 ### Aji: Koyi yadda ake kirkirar shafin yanar gizo daga farko har karshe a wayar hannu
 
-<a href="[https://paystack.com/pay/mobile-website-creation](https://paystack.com/pay/mobile-website-creation "https://paystack.com/pay/mobile-website-creation")"><button type="button" name="button" class="btn btn-primary">Yi Rajista</button></a>
+<a href="https://paystack.com/pay/mobile-website-creation"><button type="button" name="button" class="btn btn-primary">Yi Rajista</button></a>
 
 **Abubuwan da za a koya a ajin:**
 
@@ -65,4 +65,4 @@ Wa'adin Biya: **27 ga Jan zuwa 3 ga Feb, 2022 (Mako guda)**
 
 Ajin zai fara: **Ranar Juma'a, 4 ga February 2022**
 
-<a href="[https://paystack.com/pay/mobile-website-creation](https://paystack.com/pay/mobile-website-creation "https://paystack.com/pay/mobile-website-creation")"><button type="button" name="button" class="btn btn-primary">Yi Rajista</button></a>
+<a href="https://paystack.com/pay/mobile-website-creation"><button type="button" name="button" class="btn btn-primary">Yi Rajista</button></a>
