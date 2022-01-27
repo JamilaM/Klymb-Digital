@@ -1,6 +1,5 @@
 +++
 description = "create a website on your mobile phone"
-draft = true
 subtitle = "Learn to Create a Website on your Mobile Phone"
 title = "Web Ceation Course"
 
