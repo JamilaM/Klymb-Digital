@@ -21,6 +21,8 @@ Idan kana daga cikin wadannan rukunonin mutane, za ka so shiga wannan aji, ko da
 
 ### Aji: Koyi yadda ake kirkirar shafin yanar gizo daga farko har karshe a wayar hannu
 
+<a href="[https://paystack.com/pay/mobile-website-creation](https://paystack.com/pay/mobile-website-creation "https://paystack.com/pay/mobile-website-creation")"><button type="button" name="button" class="btn btn-primary">Yi Rajista</button></a>
+
 **Abubuwan da za a koya a ajin:**
 
 Yadda ake saye da kuma hada sunan shafin yanar gizo da kuma ma'ajiyarshi (domain and hosting)
@@ -54,3 +56,5 @@ Wa'adin aji: Kwanaki 3
 Kafar koyarwa: - - -
 
 Farashi: - - -
+
+<a href="[https://paystack.com/pay/mobile-website-creation](https://paystack.com/pay/mobile-website-creation "https://paystack.com/pay/mobile-website-creation")"><button type="button" name="button" class="btn btn-primary">Yi Rajista</button></a>
