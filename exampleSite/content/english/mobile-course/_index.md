@@ -1,8 +1,8 @@
 +++
 description = "create a website on your mobile phone"
+image = "images/add-banner.png"
 subtitle = "Learn to Create a Website on your Mobile Phone"
 title = "Web Ceation Course"
-image = "images/add-banner.png"
 
 +++
 Are you interested in **_starting a career as a website creator_** where you create beautiful online presences for small business owners?
@@ -18,6 +18,8 @@ or let's say you are a writer who simply wants to share their ideas and **_make 
 If any of this sounds like you then you would want to join this class:
 
 ### **Create a website from scratch on a mobile phone**
+
+<a href="https://paystack.com/pay/mobile-website-creation"><button type="button" name="button" class="btn btn-primary">Enroll Now</button></a>
 
 **What you will learn:**
 
