@@ -64,4 +64,4 @@ The course begins: **Friday, 4th of February 2022**
 
 ### **Pay Now**
 
-[Make Payment](https://paystack.com/pay/mobile-website-creation){: .payment}
+[Make Payment](https://paystack.com/pay/mobile-website-creation){ .payment}
