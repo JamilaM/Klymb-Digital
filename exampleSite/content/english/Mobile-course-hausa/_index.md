@@ -2,6 +2,7 @@
 description = ""
 subtitle = "Koyi yadda ake kirkirar shafukan yanar gizo da wayar tarho"
 title = "Ajin Kirkirar Shafukan Yanar Gizo"
+image = "images/add-banner.png"
 
 +++
 Shin kana sha'awar **_fara sana'ar kirkirar shafukan yanar gizo_** ga kananan 'yan kasuwa?
