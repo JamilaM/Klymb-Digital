@@ -62,3 +62,5 @@ Early bird price: **N4500 (**Midnight 29th of January 2022)
 Payment window: **27th Jan to 3th Feb, 2022**
 
 The course begins: **Friday, 4th of February 2022**
+
+### **Pay Now**
