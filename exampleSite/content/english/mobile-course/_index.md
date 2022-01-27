@@ -2,7 +2,7 @@
 description = "create a website on your mobile phone"
 image = "images/add-banner.png"
 subtitle = "Learn to Create a Website on your Mobile Phone"
-title = "Web Creation Course"
+title = "Website Creation Course"
 
 +++
 Are you interested in **_starting a career as a website creator_** where you create beautiful online presences for small business owners?
